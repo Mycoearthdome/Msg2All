@@ -1,4 +1,4 @@
-# 🌍 Translate a Document into Every Language (Google Cloud Translation v3)
+# 🌍 Translate a Document into Every Language (Google Cloud Translation v3) - Should you need a League of Kings :P
 
 This tool takes a text document and automatically translates it into **all languages supported by Google Cloud Translation**.  
 It detects the source language, fetches the list of supported target languages dynamically, and saves one output file per language.  
